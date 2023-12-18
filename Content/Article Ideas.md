@@ -43,7 +43,6 @@
             - Sequential
         - Timer
         - Oscillator
-        - Optoelectronic Circuits
     - Advanced Circuits
         - Filter Circuits
         - Operational Amplifier Circuit
