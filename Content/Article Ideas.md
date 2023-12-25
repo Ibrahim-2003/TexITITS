@@ -122,7 +122,6 @@
         - IR
         - LoRa
         - RFID
-- Power Electronics
 
 ## Software Engineering
 - Intro to Programming
@@ -186,7 +185,6 @@
     - Protein Interactions
     - Inflammation and Immune Response
 - Cellular Engineering
-
 
 ## Chemistry
 - General Chemistry
