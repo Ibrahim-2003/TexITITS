@@ -266,6 +266,10 @@
     - Determinants
     - Eigenvalues/Eigenvectors
     - Conic Sections
+- Geometry
+    - Trigonometry
+    - Conics
+    - Matrix Transformations
 - Calculus
     - Derivatives
     - Integrals
